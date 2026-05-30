@@ -9,8 +9,9 @@ I am a Computer Science student at Arizona State University with experience in c
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananya%20Arora-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ananyaaro)
-[![Email](https://img.shields.io/badge/Email-aarora86%40asu.edu-red?style=for-the-badge&logo=gmail)](mailto:ananya.arora.tech@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ananya.arora.tech%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ananya.arora.tech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ananyaarora24-black?style=for-the-badge&logo=github)](https://github.com/Ananyaarora24)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ananya__arorasat-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ananya_arorasat)
 
 ---
 
@@ -68,27 +69,11 @@ I am a Computer Science student at Arizona State University with experience in c
 
 ---
 
-## Featured Projects
+## Certifications & Coding Profiles
 
-### Askademia
-AI academic assistant built with Gemini AI and MongoDB.
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/4f070e36-cbae-411c-97ba-09b8f04507b3/linked_in_profile)
 
-### Academic Help System
-Backend system using SQL, Java, encryption, and database management.
-
-### Hand Gesture Recognition
-Real-time hand gesture recognition system using OpenCV, Keras, and text-to-speech.
-
-### HealthCare-HackPrinceton — Ami
-AI-powered period tracker chatbot focused on privacy and secure reproductive health tracking.
-
----
-
-## GitHub Stats
-
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananyaarora24&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyaarora24&layout=compact&theme=tokyonight)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ananya_arorasat)
 
 ---
 
