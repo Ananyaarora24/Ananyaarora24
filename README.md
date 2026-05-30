@@ -1,83 +1,86 @@
 # Hi, I'm Ananya Arora 👋
 
-### Computer Science Student | Cloud Computing | AI | Full-Stack Development
+### Computer Science Student | Cloud Computing | AI | Databases
 
-I am a Computer Science student at Arizona State University with experience in cloud computing, AI, databases, and full-stack development. I enjoy building real-world projects, working on hackathons, and exploring scalable systems.
+I am a Computer Science student at Arizona State University with experience in cloud computing, AI, databases, and server management. I enjoy building real-world projects, working on hackathons, and exploring scalable systems.
 
 ---
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Ananyaarora24)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ananya.arorasat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananya%20Arora-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ananyaaro)
+[![Email](https://img.shields.io/badge/Email-aarora86%40asu.edu-red?style=for-the-badge&logo=gmail)](mailto:aarora86@asu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-Ananyaarora24-black?style=for-the-badge&logo=github)](https://github.com/Ananyaarora24)
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
+### Programming Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-
-### Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-2C2C2C?style=for-the-badge)
 
 ### AI / ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![Pyttsx3](https://img.shields.io/badge/Pyttsx3-4B8BBE?style=for-the-badge)
+![Gemini AI Studio](https://img.shields.io/badge/Gemini%20AI%20Studio-8E75B2?style=for-the-badge)
+![Teachable Machine](https://img.shields.io/badge/Teachable%20Machine-4285F4?style=for-the-badge)
 
-### Design & Tools
+### Cloud, DevOps & Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lightsail](https://img.shields.io/badge/AWS%20Lightsail-232F3E?style=for-the-badge)
+![Route 53](https://img.shields.io/badge/Route%2053-232F3E?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Virtualmin](https://img.shields.io/badge/Virtualmin-2E8B57?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-333333?style=for-the-badge)
+![DNS Management](https://img.shields.io/badge/DNS%20Management-0052CC?style=for-the-badge)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+
+### Databases & APIs
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Java Encryption Libraries](https://img.shields.io/badge/Java%20Encryption%20Libraries-ED8B00?style=for-the-badge)
+![Text to Speech](https://img.shields.io/badge/Text--to--Speech-6A5ACD?style=for-the-badge)
+
+### Design & Prototyping
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### SimplyGraph
-AI-powered SAT math tutor integrating interactive graphing and AI-based hints.
-
-### Ami
-AI period tracker chatbot app built during HackPrinceton with privacy-focused health tracking.
-
 ### Askademia
-AI academic assistant built with Gemini AI and MongoDB Atlas Vector Search.
+AI academic assistant built with Gemini AI and MongoDB.
+
+### Academic Help System
+Backend system using SQL, Java, encryption, and database management.
 
 ### Hand Gesture Recognition
 Real-time hand gesture recognition system using OpenCV, Keras, and text-to-speech.
+
+### HealthCare-HackPrinceton — Ami
+AI-powered period tracker chatbot focused on privacy and secure reproductive health tracking.
 
 ---
 
@@ -92,6 +95,6 @@ Real-time hand gesture recognition system using OpenCV, Keras, and text-to-speec
 ## Current Focus
 
 - Building cloud and AI-based projects  
-- Practicing full-stack development  
-- Exploring AWS, Docker, and scalable systems  
+- Strengthening database and backend development skills  
+- Exploring AWS, scalable systems, and server management  
 - Preparing for software engineering and cloud roles  
