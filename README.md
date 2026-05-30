@@ -10,7 +10,7 @@ I am a Computer Science student at Arizona State University with experience in c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananya%20Arora-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ananyaaro)
 [![Email](https://img.shields.io/badge/Email-ananya.arora.tech%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ananya.arora.tech@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ananyaarora24-black?style=for-the-badge&logo=github)](https://github.com/Ananyaarora24)
+
 
 
 ---
