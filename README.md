@@ -2,7 +2,7 @@
 
 ### Computer Science Graduate | Cloud Computing | AI | Databases
 
-I am a Computer Science graduate from Arizona State University with experience in cloud computing, AI, databases, and server management. I enjoy building real-world projects, working on hackathons, and exploring scalable systems.
+I am a Computer Science graduate from Arizona State University with experience in cloud computing, AI, databases, and server management. I enjoy building real world projects, working on hackathons, and exploring scalable systems.
 
 ---
 
